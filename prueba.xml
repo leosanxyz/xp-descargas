@@ -3,17 +3,17 @@
   <channel>
     <title>XP Coordinación (prueba)</title>
     <item>
-      <title>Versión 1.0.3</title>
-      <pubDate>Mon, 23 Nov 2026 18:23:03 +0000</pubDate>
-      <sparkle:version>1.0.3.1000</sparkle:version>
-      <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
+      <title>Versión 1.0.4</title>
+      <pubDate>Mon, 23 Nov 2026 21:30:45 +0000</pubDate>
+      <sparkle:version>1.0.4.1000</sparkle:version>
+      <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
       <sparkle:channel>prueba</sparkle:channel>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/leosanxyz/xp-descargas/releases/download/v1.0.3/XP-1.0.3-mac.dmg" length="46025485" type="application/octet-stream" sparkle:edSignature="7OABai4E1/S5dmAkxQdlEdOnzld7xew60H8wmhlb/Z+g5ku52tMIohSQF2kA68yROeADnUTJeLlAc+F8sVxLCQ=="/>
+      <enclosure url="https://github.com/leosanxyz/xp-descargas/releases/download/v1.0.4/XP-1.0.4-mac.dmg" length="46024642" type="application/octet-stream" sparkle:edSignature="dR0L000XrszoyTsOe+gZNaB7OW6arrXPNuPAUQNZjv6TpKAs6HLrx/f+muEupLtvnSajQVWTbFCHqSl0K9wRCA=="/>
     </item>
   </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: p3yWvsR9rep2b7mnUZ7Zd4XytGIA2m26uPaujn0MmTDtNlCwmF1nLY9KXgbPAKNG3mcZCUPfEeoLRXlmXu7GBw==
+edSignature: vZ3ew8Clrv4g1ohLaHOHfokKhG9kmV7vSzgRrp1FC81aXV16MnqR2xuabvi0g7K3xX3y2jZuT5ZTG5S4XW3MBQ==
 length: 831
 -->
