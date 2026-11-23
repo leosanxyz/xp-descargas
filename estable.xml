@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>XP Coordinación (estable)</title>
+    <item>
+      <title>Versión 1.0.1</title>
+      <pubDate>Mon, 23 Nov 2026 16:51:29 +0000</pubDate>
+      <sparkle:version>1.0.1.1000</sparkle:version>
+      <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+      <sparkle:channel>estable</sparkle:channel>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/leosanxyz/xp-descargas/releases/download/v1.0.1/XP-1.0.1-mac.dmg" length="46022238" type="application/octet-stream" sparkle:edSignature="y+ySgAU7JFjeEZ4Kt660W92ShmQ7pyYqNkJhJf62O4rPmdJBwrpSdGVi3lymy1FXIlAB9gs8g8Ipehw9cG24Dg=="/>
+    </item>
+  </channel>
+</rss>
+<!-- sparkle-signatures:
+edSignature: JNz5SvLk37ger2EdibJtDnk6/4Na+HZutRtqbfHlF9wXp+Q8fTM+xMk1vftj5cep2tRM7+yBJDnzBdP4UpZECA==
+length: 833
+-->
